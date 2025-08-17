@@ -1,0 +1,1 @@
+This robot, developed by OPENRPA, is designed to fetch emails from Outlook. It begins by transferring each email to a designated folder according to its subject. Following the relocation, the robot will send a reply to each email. After processing all retrieved emails, it will finalize the automation by sending a concluding email.
